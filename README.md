@@ -1,5 +1,5 @@
 # spm-core-win
-This is the Sipaa Package Manager - Core utilities for the Windows operating system.
+This is the Core utilities for the Windows operating system reposity, to be used with SPM.
 
 ## What is inside this repo?
 All the software marked as "essential" for a usable Windows installation will go here.
