@@ -1,0 +1,9 @@
+{
+  "Name": "core",
+  "Description": "Essential utilities",
+  "OperatingSystem": "winnt32",
+  "RequiredVersion": "6.1.7600",
+  "Packages": {
+    "google-chrome": "/browsers/google-chrome.json"
+  }
+}
